@@ -1,0 +1,15 @@
+{
+  "name": "rails-blog-sample",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
